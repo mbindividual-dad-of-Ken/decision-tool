@@ -1,0 +1,14 @@
+{
+  "name": "1小時決策法",
+  "short_name": "決策法",
+  "description": "用結構化流程，在1小時內做出更好的決策",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0e0c",
+  "theme_color": "#d4a843",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
